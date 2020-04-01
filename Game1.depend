@@ -1,0 +1,47 @@
+# depslib dependency file v1.0
+1557214661 source:c:\users\acer\desktop\game1\main.cpp
+	<SFML\Graphics.hpp>
+	<SFML/Audio.hpp>
+	<iostream>
+	"Colum.h"
+	"Stick.h"
+	<string>
+
+1557205516 source:c:\users\acer\desktop\game1\src\colum.cpp
+	"Colum.h"
+	<cstdlib>
+	<SFML/Graphics.hpp>
+
+1557205996 c:\users\acer\desktop\game1\include\colum.h
+	<SFML/Graphics.hpp>
+
+1557179649 source:c:\users\acer\desktop\game1\src\stick.cpp
+	"Stick.h"
+	<SFML/Graphics.hpp>
+
+1557204407 c:\users\acer\desktop\game1\include\stick.h
+	<SFML/Graphics.hpp>
+
+1557214661 source:c:\users\acer\downloads\stickhero_tam\stickhero_tam\main.cpp
+	<SFML\Graphics.hpp>
+	<SFML/Audio.hpp>
+	<iostream>
+	"Colum.h"
+	"Stick.h"
+	<string>
+
+1557205996 c:\users\acer\downloads\stickhero_tam\stickhero_tam\include\colum.h
+	<SFML/Graphics.hpp>
+
+1557204407 c:\users\acer\downloads\stickhero_tam\stickhero_tam\include\stick.h
+	<SFML/Graphics.hpp>
+
+1557205516 source:c:\users\acer\downloads\stickhero_tam\stickhero_tam\src\colum.cpp
+	"Colum.h"
+	<cstdlib>
+	<SFML/Graphics.hpp>
+
+1557179649 source:c:\users\acer\downloads\stickhero_tam\stickhero_tam\src\stick.cpp
+	"Stick.h"
+	<SFML/Graphics.hpp>
+
